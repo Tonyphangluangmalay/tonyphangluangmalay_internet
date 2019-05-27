@@ -1,0 +1,93 @@
+*{
+    outline: dotted black;
+}
+
+#wrapper{
+    margin: auto;
+    width: 970px;
+    height: 100px;
+}
+
+#wrapper img{
+    vertical-align: top;
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+}
+
+#wrapper i{
+    color: rgb(34, 101, 158);
+    font-style: normal;
+    
+}
+
+#wrapper h1{
+    vertical-align: top;
+    display: inline-block;
+    font-size:250%;
+}
+.container{
+    margin: auto;
+    height: 500px;
+    width: 970px;
+}
+
+.container h2{
+    margin-left: 10px;
+    margin: auto;
+    font-size: 200%;
+    color: whitesmoke;
+    background-image: radial-gradient(rgb(52, 112, 163),lightblue);
+  }
+
+.sidecontent{
+    text-align: center;
+    height: 100px;
+    width: 180px;
+}
+span{
+      color: red;
+  }
+
+.button{
+    text-align: center;
+    width: 140px;
+    margin: 5px;
+    color: white;
+    background-color: rgb(55, 117, 170);
+    border-radius: 5px;
+}
+
+.button1{
+    color: white;
+    background-color: rgb(239, 124, 0);
+    border-radius: 5px;
+}
+
+.sidecontent2{
+    outline: dotted red;
+    width: 180px;;
+    position: absolute;
+    margin-top: 50px;
+}
+.under{
+    display: block;
+    position: absolute;
+    margin-top: 30px;
+    height: 250px;
+    width: 180px;
+}
+
+.sidecontent2 h3{
+    position: relative;
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 50px;
+}
+.over{
+    position: relative;
+    margin-top: 1px;
+    margin-left: 50px;
+    height: 100px;
+    width: 80px;
+}
